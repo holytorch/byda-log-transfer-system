@@ -1,3 +1,0 @@
-/home/yoo/byda_test/build/CMakeFiles/app.dir
-/home/yoo/byda_test/build/CMakeFiles/edit_cache.dir
-/home/yoo/byda_test/build/CMakeFiles/rebuild_cache.dir

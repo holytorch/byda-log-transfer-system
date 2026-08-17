@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/yoo/byda_test/build",
-  "command": "/usr/bin/g++ -DAPP_VERSION_DATE=\\\"20260817\\\" -I/home/yoo/byda_test/src -I/home/yoo/byda_test/3rdparty/libuv/include -I/home/yoo/byda_test/3rdparty/spdlog/include -I/home/yoo/byda_test/3rdparty/FFmpeg/include -I/home/yoo/byda_test/3rdparty/OpenSSL/lib/linux/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/app.dir/src/main.cpp.o -c /home/yoo/byda_test/src/main.cpp",
-  "file": "/home/yoo/byda_test/src/main.cpp",
-  "output": "CMakeFiles/app.dir/src/main.cpp.o"
-}
-]
